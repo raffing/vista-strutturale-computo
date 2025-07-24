@@ -21,7 +21,7 @@ def avvia_streamlit():
         return
     
     # Verifica che il file dati esista
-    if not os.path.exists('output_ferri.txt'):
+    if not os.path.exists('data/output_ferri.txt'):
         print("❌ Errore: File 'output_ferri.txt' non trovato!")
         input("Premi Enter per uscire...")
         return

@@ -540,7 +540,7 @@ def main():
     print("=====================================")
     
     # Controlla se il file esiste
-    if not os.path.exists('output_ferri.txt'):
+    if not os.path.exists('data/output_ferri.txt'):
         print("❌ Errore: File 'output_ferri.txt' non trovato!")
         print("   Assicurati che il file sia presente nella stessa cartella di questo script.")
         input("Premi Enter per uscire...")
@@ -549,7 +549,7 @@ def main():
     try:
         # Carica e analizza i dati
         print("📊 Caricamento dati...")
-        data = parse_ferri_data('output_ferri.txt')
+        data = parse_ferri_data('data/output_ferri.txt')
         
         if not data:
             print("❌ Errore: Nessun dato trovato nel file!")

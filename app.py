@@ -62,7 +62,7 @@ def parse_ferri_data(file_path):
 def load_data():
     """Carica i dati dal file"""
     try:
-        df = parse_ferri_data('output_ferri.txt')
+        df = parse_ferri_data('data/output_ferri.txt')
         return df
     except Exception as e:
         st.error(f"Errore nel caricamento del file: {e}")
