@@ -1,0 +1,72 @@
+ANALISI FERRI STRUTTURALI - 24/07/2025 14:27:59
+File Excel: CME STRUTTURALE CARCHIA.xlsx
+================================================================================
+
+============================================================
+PILASTRI
+============================================================
+--------
+Piano garage          ø 16    1894.81
+Piano garage           ø 8     712.32
+--------
+Piano mansarda        ø 16     479.75
+Piano mansarda         ø 8     391.33
+--------
+Piano primo           ø 16    1218.11
+Piano primo            ø 8     680.51
+--------
+Piano rialzato        ø 16    1341.60
+Piano rialzato         ø 8     750.57
+
+
+============================================================
+TRAVI
+============================================================
+--------
+Piano garage          ø 14    5433.69
+Piano garage          ø 16    1451.51
+Piano garage           ø 6      64.10
+Piano garage           ø 8     560.68
+--------
+Piano mansarda        ø 14    1545.81
+Piano mansarda        ø 16     710.55
+Piano mansarda         ø 8     261.76
+--------
+Piano primo           ø 14    1184.14
+Piano primo           ø 16    1698.90
+Piano primo            ø 6      31.49
+Piano primo            ø 8     685.95
+--------
+Piano rialzato        ø 14     760.82
+Piano rialzato        ø 16    1652.96
+Piano rialzato         ø 6      31.49
+Piano rialzato         ø 8     583.35
+
+
+============================================================
+PARETI
+============================================================
+--------
+Piano garage          ø 16     109.52
+--------
+Piano mansarda        ø 16       5.59
+--------
+Piano primo           ø 16      46.74
+--------
+Piano rialzato        ø 16     157.61
+
+
+============================================================
+FONDAZIONE
+============================================================
+--------
+Fondazione            ø 12      17.97
+Fondazione            ø 14    5874.53
+
+
+============================================================
+TEST SOMMA TOTALE FERRI
+============================================================
+Somma totale da output aggregato: 30338.16
+Somma totale diretta di tutte le quantità dei ferri: 30338.16
+Differenza (output - diretto): 0.00

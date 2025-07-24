@@ -140,7 +140,7 @@ dmypy.json
 
 # Output files
 *.html
-*.txt
+# *.txt
 !requirements.txt
 !README.txt
 
